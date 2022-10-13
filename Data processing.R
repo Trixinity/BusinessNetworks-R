@@ -2,51 +2,52 @@
 library(igraph, warn.conflicts = FALSE)
 library(tidyr, warn.conflicts = FALSE)
 library(dplyr, warn.conflicts = FALSE)
+library(reshape2, warn.conflicts = FALSE)
 
 # Read dataset from Securities Data Company (SDC) Platinum
 sdc <- readRDS("SDC_data_2021.rds")
 
-# Filter the set with only Ford and their deal_number
-ford_dealnumber <- sdc %>% filter(type == "Joint Venture",
-    participants == "Ford Motor Co") %>%
-        select(deal_number)
-vector_dealnumber <- as.vector(t(ford_dealnumber))
+# function getting dataframe of companies 
+get_dataframe <- function(company_name) {
+    # Get the deal numbers made of the company
+    company_dealnumber <- sdc %>% filter(type == "Joint Venture",
+        participants == company_name) %>%
+            select(deal_number)
+    company_dealnumber <- as.vector(t(company_dealnumber))
 
-# List of companies which have/had a Joint Venture with Ford.
-ford_jointventures <- sdc %>% filter(deal_number %in% vector_dealnumber,
+    # Get the data frame of join venture deals of company_name
+    dataframe <- sdc %>% filter(deal_number %in% company_dealnumber,
     SIC_primary != "999A", #Remove countries from Joint Ventures
-    participants != "Ford Motor Co") %>% #Removes Ford from the list
-    select(participants, business_description, participant_nation)
-ford_jointventures <- ford_jointventures %>%
-    distinct(participants, .keep_all = TRUE) # Removes duplicates
+    participants != company_name) %>% #Removes company_name from the list
+        select(participants, business_description, participant_nation)
+    return(dataframe)
+}
 
-# Filter the set with only BMW and their deal_number
-bmw_dealnumber <- sdc %>% filter(type == "Joint Venture",
-    participants == "Bayerische Motoren Werke AG") %>%
-        select(deal_number)
-vector_dealnumber_bmw <- as.vector(t(bmw_dealnumber))
+# Function to get a matrix
+get_matrix <- function(dataframe_name, company_name) {
+    vector <- dataframe_name %>%
+        select(participants)
+    vector <- as.vector(t(vector))
 
-# List of companies which have/had a Joint Venture with BMW.
-bmw_jointventures <- sdc %>% filter(deal_number %in% vector_dealnumber_bmw,
-    SIC_primary != "999A", #Remove countries from Joint Ventures
-    participants != "Bayerische Motoren Werke AG") %>% #Removes BMW
-    select(participants, business_description, participant_nation)
-bmw_jointventures <- bmw_jointventures %>%
-    distinct(participants, .keep_all = TRUE) # Removes duplicates
+    # Setting up the data frame for an adjecency matrix
+    length <- length(na.omit(vector))
+    vector_company <- rep(c(company_name), each=length)
+    dataframe <- data.frame(vector_company, vector)
+    matrix <- get.adjacency(graph.edgelist(as.matrix(dataframe),
+        directed = FALSE))
+    return(matrix)
+}
 
-# Filter the set with only Toyota and their deal_number
-toyota_dealnumber <- sdc %>% filter(type == "Joint Venture",
-    participants == "Toyota Motor Corp") %>%
-        select(deal_number)
-vector_dealnumber_toyota <- as.vector(t(toyota_dealnumber))
+# Get data frames of join ventures deals with company_name
+ford_jointventures <- get_dataframe("Ford Motor Co") # Ford
+bmw_jointventures <- get_dataframe("Bayerische Motoren Werke AG") # BMW
+toyota_jointventures <- get_dataframe("Toyota Motor Corp") # Toyota
 
-# List of companies which have/had a Joint Venture with Toyota.
-toyota_jointventures <- sdc %>% filter(
-    deal_number %in% vector_dealnumber_toyota,
-    SIC_primary != "999A", #Remove countries from Joint Ventures
-    participants != "Toyota Motor Corp") %>% #Removes Toyota from the list
-    select(participants, business_description, participant_nation)
-toyota_jointventures <- toyota_jointventures %>%
-    distinct(participants, .keep_all = TRUE) # Remove duplicates
+# get matrices
+matrix_ford <- get_matrix(ford_jointventures, "Ford Motor Co")
+graph_ford <- graph.adjacency(matrix_ford, mode="undirected")
+set.seed(689)
+plot(ig)
 
-# Create adjacency matrices of the dataframes
+#sry <- ddply(matrix_dataframe, .(vector_ford,vector_ford_jv),
+#    summarize, Frequency=length(vector_ford))
