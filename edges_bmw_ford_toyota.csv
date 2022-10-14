@@ -1,0 +1,203 @@
+"","from","to","weight"
+"1","Ford Motor Co","Anglo American Corp of SA Ltd",1
+"2","Ford Motor Co","Anglo American Industrial Corp",1
+"3","Ford Motor Co","Aries Technology Inc",1
+"4","Ford Motor Co","Audi AG",2
+"5","Ford Motor Co","Ballard Power Systems Inc",1
+"6","Ford Motor Co","Bayerische Motoren Werke AG",2
+"7","Ford Motor Co","BTR PLC",1
+"8","Ford Motor Co","Central Glass Co Ltd",1
+"9","Ford Motor Co","China FAW Group Corp",1
+"10","Ford Motor Co","Chongqing Changan Auto Co Ltd",2
+"11","Ford Motor Co","Chrysler Corp",3
+"12","Ford Motor Co","Cisco Systems Inc",1
+"13","Ford Motor Co","Citicorp",1
+"14","Ford Motor Co","Commerce One Inc",1
+"15","Ford Motor Co","Credit Suisse First Boston Ltd",1
+"16","Ford Motor Co","Daimler-Benz Ag",1
+"17","Ford Motor Co","Daimler AG",2
+"18","Ford Motor Co","Daimlerchrysler Ag",1
+"19","Ford Motor Co","Defense Evaluation & Research",1
+"20","Ford Motor Co","FCA Italy SpA",1
+"21","Ford Motor Co","GE Research and Dvlp Center",1
+"22","Ford Motor Co","General Electric Co",1
+"23","Ford Motor Co","General Motors Corp",5
+"24","Ford Motor Co","Honda Motor Co Ltd",1
+"25","Ford Motor Co","Investor Group",1
+"26","Ford Motor Co","Iveco Nederland BV",1
+"27","Ford Motor Co","Jardine Intl Motor Hldg Ltd",1
+"28","Ford Motor Co","Kia Motors Corp(Kia Group)",2
+"29","Ford Motor Co","Koc Holding AS",1
+"30","Ford Motor Co","KPN",1
+"31","Ford Motor Co","Lada-OMS Holding(Ford Motor)",2
+"32","Ford Motor Co","Lamb Technicon Corp",1
+"33","Ford Motor Co","Lear Corp",1
+"34","Ford Motor Co","Lioho Machine Works Ltd",1
+"35","Ford Motor Co","Mahindra & Mahindra Ltd",2
+"36","Ford Motor Co","Mando Machinery Corp",2
+"37","Ford Motor Co","Maruti Udyog Ltd",1
+"38","Ford Motor Co","Matsushita Electric Industrial",1
+"39","Ford Motor Co","Mazda Motor Corp",11
+"40","Ford Motor Co","Microsoft Corp",1
+"41","Ford Motor Co","MSX International Inc",1
+"42","Ford Motor Co","Navistar International Corp",1
+"43","Ford Motor Co","Nissan Motor Co Ltd",3
+"44","Ford Motor Co","Oracle Corp",3
+"45","Ford Motor Co","Porsche Automobil Holding SE",1
+"46","Ford Motor Co","Porsche Pakistan",1
+"47","Ford Motor Co","Qualcomm Inc",1
+"48","Ford Motor Co","Regie Natle Des Usines",1
+"49","Ford Motor Co","Samcor Employees Trust",1
+"50","Ford Motor Co","Shanghai Automation",1
+"51","Ford Motor Co","Shanghai Automotive Ind Corp",4
+"52","Ford Motor Co","Shanghai Yanfeng Accessories",1
+"53","Ford Motor Co","Shanghai Yaohua Pilkington",1
+"54","Ford Motor Co","Siemens Automotive LP",2
+"55","Ford Motor Co","Sollers",1
+"56","Ford Motor Co","Song Cong Diesel Factory",1
+"57","Ford Motor Co","StreetScooter GmbH",1
+"58","Ford Motor Co","Sukosol & Mazda Motor Industry",1
+"59","Ford Motor Co","Sumitomo Corp",1
+"60","Ford Motor Co","Undisclosed JV Partner",1
+"61","Ford Motor Co","United Technologies Corp",1
+"62","Ford Motor Co","Volkswagen Ag",2
+"63","Ford Motor Co","Volkswagen AG",1
+"64","Ford Motor Co","Volkswagen Group Services SCS",1
+"65","Ford Motor Co","VTZ",1
+"66","Ford Motor Co","Yaohau Glass Factory",1
+"67","Ford Motor Co","Yuejin Motor Group Co",1
+"68","Ford Motor Co","ZF Friedrichshafen AG",1
+"69","Bayerische Motoren Werke AG","Audi AG",2
+"70","Bayerische Motoren Werke AG","Brilliance China Automotive",1
+"71","Bayerische Motoren Werke AG","CGE",1
+"72","Bayerische Motoren Werke AG","Chrysler Corp",1
+"73","Bayerische Motoren Werke AG","Critical Software SA",1
+"74","Bayerische Motoren Werke AG","Daimler AG",2
+"75","Bayerische Motoren Werke AG","Deugro Luftfracht",1
+"76","Bayerische Motoren Werke AG","Fokker NV",1
+"77","Bayerische Motoren Werke AG","Ford Motor Co",2
+"78","Bayerische Motoren Werke AG","Great Wall Motor Co Ltd",2
+"79","Bayerische Motoren Werke AG","Hero Cycles Ltd",1
+"80","Bayerische Motoren Werke AG","Hero Motors Ltd",2
+"81","Bayerische Motoren Werke AG","McDonnell Douglas Corp",1
+"82","Bayerische Motoren Werke AG","Porsche Automobil Holding SE",1
+"83","Bayerische Motoren Werke AG","Porsche Pakistan",1
+"84","Bayerische Motoren Werke AG","PSA Peugeot Citroen SA",1
+"85","Bayerische Motoren Werke AG","Robert Bosch GmbH",1
+"86","Bayerische Motoren Werke AG","Rolls-Royce Plc",4
+"87","Bayerische Motoren Werke AG","SGL Carbon SE",1
+"88","Bayerische Motoren Werke AG","Siemens AG",1
+"89","Bayerische Motoren Werke AG","VMC",1
+"90","Bayerische Motoren Werke AG","Volkswagen Ag",1
+"91","Bayerische Motoren Werke AG","Volkswagen AG",1
+"92","Bayerische Motoren Werke AG","Volkswagen Group Services SCS",1
+"93","Bayerische Motoren Werke AG","Yontrakit Group",1
+"94","Toyota Motor Corp","3iBJ",1
+"95","Toyota Motor Corp","Aisin Seiki Co Ltd",1
+"96","Toyota Motor Corp","Alpine Electronics Inc",1
+"97","Toyota Motor Corp","America Online Inc",1
+"98","Toyota Motor Corp","Asahi Solar Co",1
+"99","Toyota Motor Corp","Astra International Tbk PT",1
+"100","Toyota Motor Corp","Beijing Automotive Grp Co Ltd",2
+"101","Toyota Motor Corp","Beijing SinoHytec Co Ltd",3
+"102","Toyota Motor Corp","Brilliance China Automotive",1
+"103","Toyota Motor Corp","Changshu Sinogy Venture Capita",1
+"104","Toyota Motor Corp","China Faw Corp Ltd",1
+"105","Toyota Motor Corp","China FAW Group Corp",3
+"106","Toyota Motor Corp","Circle K Japan Co Ltd",1
+"107","Toyota Motor Corp","Daewoo International Corp",1
+"108","Toyota Motor Corp","Daewoo Motor Co Ltd",1
+"109","Toyota Motor Corp","Dai-Ichi Kangyo Bank Ltd",1
+"110","Toyota Motor Corp","DCM Daewoo Motors Ltd",1
+"111","Toyota Motor Corp","DCM Ltd",1
+"112","Toyota Motor Corp","Decaroli SA",1
+"113","Toyota Motor Corp","Denso Corp",2
+"114","Toyota Motor Corp","Dentsu Inc",1
+"115","Toyota Motor Corp","Dongfeng Motor Co Ltd",1
+"116","Toyota Motor Corp","Dongfeng Motor Corp",1
+"117","Toyota Motor Corp","Faw Grp Co Ltd",1
+"118","Toyota Motor Corp","Fujitsu Ltd",5
+"119","Toyota Motor Corp","GAC",1
+"120","Toyota Motor Corp","General Motors Corp",3
+"121","Toyota Motor Corp","Guangzhou Auto Grp Co Ltd",3
+"122","Toyota Motor Corp","Haci Omer Sabanci Holding AS",2
+"123","Toyota Motor Corp","Hamilton Standard",1
+"124","Toyota Motor Corp","Hino Motors Ltd",2
+"125","Toyota Motor Corp","Hirohisa Saito",1
+"126","Toyota Motor Corp","Hitachi Ltd",1
+"127","Toyota Motor Corp","Holden's Motor Co",1
+"128","Toyota Motor Corp","Honda Motor Co Ltd",2
+"129","Toyota Motor Corp","IBM Japan Ltd",1
+"130","Toyota Motor Corp","IFCT",1
+"131","Toyota Motor Corp","Inchcape PLC",1
+"132","Toyota Motor Corp","Investor Group",2
+"133","Toyota Motor Corp","Ishikawajima-Harima Heavy",1
+"134","Toyota Motor Corp","Itochu Corp",1
+"135","Toyota Motor Corp","Japan Airlines Co Ltd",1
+"136","Toyota Motor Corp","Japan Telecom Co Ltd",1
+"137","Toyota Motor Corp","Japan Times",1
+"138","Toyota Motor Corp","Kazakh Butya Holding",1
+"139","Toyota Motor Corp","KDD Corp",1
+"140","Toyota Motor Corp","Kenwood Corp",1
+"141","Toyota Motor Corp","Kirloskar Motor",1
+"142","Toyota Motor Corp","Kirloskar Oil Engines Ltd",1
+"143","Toyota Motor Corp","Kirloskar Systems Ltd",1
+"144","Toyota Motor Corp","Kyushu Railway Co",1
+"145","Toyota Motor Corp","Matsushita Electric Industrial",3
+"146","Toyota Motor Corp","Mazda Motor Corp",1
+"147","Toyota Motor Corp","Metro Bk & Tr Co",1
+"148","Toyota Motor Corp","Microsoft Corp",1
+"149","Toyota Motor Corp","Mitsubishi Motors Corp",1
+"150","Toyota Motor Corp","Mitsubishi Oil Co Ltd",1
+"151","Toyota Motor Corp","Mitsui & Co Ltd",7
+"152","Toyota Motor Corp","Mitsui Engineering & Shipbldg",1
+"153","Toyota Motor Corp","Nichimen Corp",1
+"154","Toyota Motor Corp","Nihon Unisys Ltd",1
+"155","Toyota Motor Corp","Nippon Electric Glass Co Ltd",1
+"156","Toyota Motor Corp","Nippon Furnace Kogyo Kaisha",1
+"157","Toyota Motor Corp","Nippon Steel Corp",1
+"158","Toyota Motor Corp","Nippon Television Network Corp",1
+"159","Toyota Motor Corp","Nissan Motor Co Ltd",2
+"160","Toyota Motor Corp","Nomura Research Inst Ltd.",1
+"161","Toyota Motor Corp","NTT Communications Corp",1
+"162","Toyota Motor Corp","PacTel Corp",1
+"163","Toyota Motor Corp","Panasonic Corp",1
+"164","Toyota Motor Corp","Panasonic Corp of N America",1
+"165","Toyota Motor Corp","Pongpara Codan Rubber Co",1
+"166","Toyota Motor Corp","Primearth EV Energy Co Ltd",1
+"167","Toyota Motor Corp","PSA Peugeot Citroen SA",1
+"168","Toyota Motor Corp","Regie Natle Des Usines",1
+"169","Toyota Motor Corp","Sanritz Automation Co Ltd",1
+"170","Toyota Motor Corp","Sanwa Bank Ltd",1
+"171","Toyota Motor Corp","SCC",1
+"172","Toyota Motor Corp","Shareholders",1
+"173","Toyota Motor Corp","Sichuan Station Wagon Mnfr",1
+"174","Toyota Motor Corp","SOFASA",1
+"175","Toyota Motor Corp","SoftBank Group Corp",1
+"176","Toyota Motor Corp","Sony Corp",2
+"177","Toyota Motor Corp","Sumitomo Corp",1
+"178","Toyota Motor Corp","Sumitomo Electric Industries",1
+"179","Toyota Motor Corp","Sunkus & Associates Inc",1
+"180","Toyota Motor Corp","Suntory Midorie Ltd",1
+"181","Toyota Motor Corp","Tianjin Automobile Industrial",2
+"182","Toyota Motor Corp","Tianjin Automotive Ind Co Ltd",1
+"183","Toyota Motor Corp","Tianjin Automotive Xiali Co",1
+"184","Toyota Motor Corp","Tokai Bank Ltd",1
+"185","Toyota Motor Corp","Tokyo Fm Broadcasting Co Ltd",1
+"186","Toyota Motor Corp","Tokyu Corp",1
+"187","Toyota Motor Corp","Toppan Printing Co Ltd",1
+"188","Toyota Motor Corp","Toshiba Corp",2
+"189","Toyota Motor Corp","Toyoda Automatic Loom Works",2
+"190","Toyota Motor Corp","Toyoda Gosei Co Ltd",1
+"191","Toyota Motor Corp","Toyota Ctrl Research and Dvlp",1
+"192","Toyota Motor Corp","Toyota Tsusho Corp",4
+"193","Toyota Motor Corp","Toyota Tsusho(Thailand)Co Ltd",1
+"194","Toyota Motor Corp","Toyota(China)Investment Co Ltd",1
+"195","Toyota Motor Corp","Undisclosed Finnish Partner",1
+"196","Toyota Motor Corp","Undisclosed Japanese Partner",1
+"197","Toyota Motor Corp","Undisclosed JV Partner",2
+"198","Toyota Motor Corp","Undisclosed Pakistani Co(s)",1
+"199","Toyota Motor Corp","Undisclosed Taiwanese Cos(2)",1
+"200","Toyota Motor Corp","Volkswagen Ag",1
+"201","Toyota Motor Corp","Yokogawa Electric Corp",1
+"202","Toyota Motor Corp","Yomiuri Shimbun Holdings",1
