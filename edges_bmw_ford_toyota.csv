@@ -201,3 +201,873 @@
 "200","Toyota Motor Corp","Volkswagen Ag",1
 "201","Toyota Motor Corp","Yokogawa Electric Corp",1
 "202","Toyota Motor Corp","Yomiuri Shimbun Holdings",1
+"203","Iveco Nederland BV","Credit Suisse First Boston Ltd",1
+"204","Credit Suisse First Boston Ltd","Investor Group",1
+"205","Credit Suisse First Boston Ltd","Iveco Nederland BV",1
+"206","Mazda Motor Corp","China FAW Group Corp",1
+"207","Mazda Motor Corp","Chongqing Changan Auto Co Ltd",1
+"208","Mazda Motor Corp","Investor Group",1
+"209","Mazda Motor Corp","Itochu Corp",1
+"210","Mazda Motor Corp","KPN",1
+"211","Mazda Motor Corp","Matsushita Electric Industrial",1
+"212","Mazda Motor Corp","Sollers",1
+"213","Mazda Motor Corp","Sukosol & Mazda Motor Industry",1
+"214","Mazda Motor Corp","Sumitomo Corp",6
+"215","Matsushita Electric Industrial","Dentsu Inc",1
+"216","Matsushita Electric Industrial","Fujitsu Ltd",3
+"217","Matsushita Electric Industrial","General Motors Corp",1
+"218","Matsushita Electric Industrial","Hitachi Ltd",2
+"219","Matsushita Electric Industrial","Japan Telecom Co Ltd",2
+"220","Matsushita Electric Industrial","Mazda Motor Corp",1
+"221","Matsushita Electric Industrial","NTT Communications Corp",1
+"222","Matsushita Electric Industrial","Siemens AG",2
+"223","Matsushita Electric Industrial","Sony Corp",4
+"224","Matsushita Electric Industrial","Sumitomo Corp",1
+"225","Matsushita Electric Industrial","Sumitomo Electric Industries",1
+"226","Matsushita Electric Industrial","Toshiba Corp",9
+"227","Matsushita Electric Industrial","Toyoda Automatic Loom Works",1
+"228","Matsushita Electric Industrial","Undisclosed Japanese Partner",1
+"229","Volkswagen Ag","Audi AG",1
+"230","Volkswagen Ag","CGE",1
+"231","Volkswagen Ag","China FAW Group Corp",5
+"232","Volkswagen Ag","Deugro Luftfracht",1
+"233","Volkswagen Ag","General Motors Corp",1
+"234","Volkswagen Ag","Robert Bosch GmbH",1
+"235","Volkswagen Ag","Shanghai Automotive Ind Corp",1
+"236","Volkswagen Ag","Siemens AG",1
+"237","Volkswagen Ag","ZF Friedrichshafen AG",1
+"238","Nissan Motor Co Ltd","Commerce One Inc",1
+"239","Nissan Motor Co Ltd","Daimler AG",1
+"240","Nissan Motor Co Ltd","Daimlerchrysler Ag",1
+"241","Nissan Motor Co Ltd","Dongfeng Motor Co Ltd",1
+"242","Nissan Motor Co Ltd","Dongfeng Motor Corp",1
+"243","Nissan Motor Co Ltd","General Motors Corp",1
+"244","Nissan Motor Co Ltd","Hitachi Ltd",3
+"245","Nissan Motor Co Ltd","Honda Motor Co Ltd",1
+"246","Nissan Motor Co Ltd","IBM Japan Ltd",1
+"247","Nissan Motor Co Ltd","Investor Group",1
+"248","Nissan Motor Co Ltd","Japan Telecom Co Ltd",5
+"249","Nissan Motor Co Ltd","KDD Corp",1
+"250","Nissan Motor Co Ltd","Kyushu Railway Co",1
+"251","Nissan Motor Co Ltd","Mitsubishi Motors Corp",2
+"252","Nissan Motor Co Ltd","Mitsui & Co Ltd",1
+"253","Nissan Motor Co Ltd","Nihon Unisys Ltd",1
+"254","Nissan Motor Co Ltd","Nippon Steel Corp",1
+"255","Nissan Motor Co Ltd","Oracle Corp",1
+"256","Nissan Motor Co Ltd","PacTel Corp",1
+"257","Nissan Motor Co Ltd","Regie Natle Des Usines",4
+"258","Nissan Motor Co Ltd","Sony Corp",1
+"259","Nissan Motor Co Ltd","Sumitomo Corp",2
+"260","Investor Group","Credit Suisse First Boston Ltd",1
+"261","Investor Group","Fujitsu Ltd",1
+"262","Investor Group","General Motors Corp",1
+"263","Investor Group","Hitachi Ltd",2
+"264","Investor Group","IBM Japan Ltd",1
+"265","Investor Group","IFCT",1
+"266","Investor Group","Itochu Corp",3
+"267","Investor Group","Japan Telecom Co Ltd",1
+"268","Investor Group","KDD Corp",1
+"269","Investor Group","Kyushu Railway Co",1
+"270","Investor Group","Mazda Motor Corp",1
+"271","Investor Group","Mitsubishi Motors Corp",1
+"272","Investor Group","Mitsui & Co Ltd",6
+"273","Investor Group","Nippon Steel Corp",2
+"274","Investor Group","Nissan Motor Co Ltd",1
+"275","Investor Group","PacTel Corp",1
+"276","Investor Group","Shareholders",1
+"277","Investor Group","Sumitomo Corp",2
+"278","Investor Group","Toshiba Corp",1
+"279","Investor Group","Undisclosed Pakistani Co(s)",1
+"280","General Electric Co","Hitachi Ltd",6
+"281","General Electric Co","Mitsui & Co Ltd",2
+"282","General Electric Co","Rolls-Royce Plc",1
+"283","General Electric Co","Toshiba Corp",6
+"284","General Electric Co","United Technologies Corp",1
+"285","General Electric Co","Yokogawa Electric Corp",1
+"286","Maruti Udyog Ltd","Sumitomo Corp",2
+"287","Sumitomo Corp","Dai-Ichi Kangyo Bank Ltd",1
+"288","Sumitomo Corp","Denso Corp",1
+"289","Sumitomo Corp","Dentsu Inc",1
+"290","Sumitomo Corp","Dongfeng Motor Corp",1
+"291","Sumitomo Corp","Hino Motors Ltd",3
+"292","Sumitomo Corp","Hitachi Ltd",2
+"293","Sumitomo Corp","Investor Group",2
+"294","Sumitomo Corp","Itochu Corp",9
+"295","Sumitomo Corp","Japan Telecom Co Ltd",2
+"296","Sumitomo Corp","KDD Corp",4
+"297","Sumitomo Corp","Maruti Udyog Ltd",2
+"298","Sumitomo Corp","Matsushita Electric Industrial",1
+"299","Sumitomo Corp","Mazda Motor Corp",6
+"300","Sumitomo Corp","Mitsui & Co Ltd",12
+"301","Sumitomo Corp","Nippon Steel Corp",1
+"302","Sumitomo Corp","Nissan Motor Co Ltd",2
+"303","Sumitomo Corp","NTT Communications Corp",1
+"304","Sumitomo Corp","Sony Corp",2
+"305","Sumitomo Corp","Sumitomo Electric Industries",6
+"306","Sumitomo Corp","Toshiba Corp",2
+"307","Sumitomo Corp","Undisclosed Finnish Partner",1
+"308","Sumitomo Corp","Undisclosed Japanese Partner",2
+"309","Kia Motors Corp(Kia Group)","Robert Bosch GmbH",1
+"310","General Motors Corp","Brilliance China Automotive",1
+"311","General Motors Corp","China FAW Group Corp",1
+"312","General Motors Corp","Chrysler Corp",4
+"313","General Motors Corp","Commerce One Inc",2
+"314","General Motors Corp","Daewoo International Corp",4
+"315","General Motors Corp","Daimlerchrysler Ag",1
+"316","General Motors Corp","Investor Group",1
+"317","General Motors Corp","Matsushita Electric Industrial",1
+"318","General Motors Corp","Nissan Motor Co Ltd",1
+"319","General Motors Corp","Oracle Corp",1
+"320","General Motors Corp","Regie Natle Des Usines",1
+"321","General Motors Corp","Shanghai Automotive Ind Corp",5
+"322","General Motors Corp","Siemens AG",1
+"323","General Motors Corp","Volkswagen Ag",1
+"324","Chrysler Corp","General Motors Corp",4
+"325","Chrysler Corp","Mitsubishi Motors Corp",1
+"326","Chrysler Corp","Regie Natle Des Usines",2
+"327","Shanghai Automotive Ind Corp","China FAW Group Corp",1
+"328","Shanghai Automotive Ind Corp","General Motors Corp",5
+"329","Shanghai Automotive Ind Corp","Shanghai Automation",1
+"330","Shanghai Automotive Ind Corp","Volkswagen Ag",1
+"331","Shanghai Automotive Ind Corp","Volkswagen AG",2
+"332","Shanghai Automotive Ind Corp","ZF Friedrichshafen AG",1
+"333","Siemens Automotive LP","BTR PLC",1
+"334","Siemens Automotive LP","Daewoo Motor Co Ltd",1
+"335","Siemens Automotive LP","Navistar International Corp",1
+"336","BTR PLC","Siemens Automotive LP",1
+"337","Mahindra & Mahindra Ltd","Regie Natle Des Usines",2
+"338","Shanghai Automation","Shanghai Automotive Ind Corp",1
+"339","Shanghai Automation","Yokogawa Electric Corp",1
+"340","Samcor Employees Trust","Anglo American Corp of SA Ltd",1
+"341","Samcor Employees Trust","Anglo American Industrial Corp",1
+"342","Anglo American Corp of SA Ltd","Anglo American Industrial Corp",1
+"343","Anglo American Corp of SA Ltd","Samcor Employees Trust",1
+"344","Anglo American Industrial Corp","Anglo American Corp of SA Ltd",1
+"345","Anglo American Industrial Corp","Daewoo International Corp",2
+"346","Anglo American Industrial Corp","Samcor Employees Trust",1
+"347","Sukosol & Mazda Motor Industry","KPN",1
+"348","Sukosol & Mazda Motor Industry","Mazda Motor Corp",1
+"349","KPN","Mazda Motor Corp",1
+"350","KPN","Sukosol & Mazda Motor Industry",1
+"351","China FAW Group Corp","Audi AG",1
+"352","China FAW Group Corp","Daewoo International Corp",1
+"353","China FAW Group Corp","Daimlerchrysler Ag",1
+"354","China FAW Group Corp","GAC",1
+"355","China FAW Group Corp","General Motors Corp",1
+"356","China FAW Group Corp","Itochu Corp",1
+"357","China FAW Group Corp","Mazda Motor Corp",1
+"358","China FAW Group Corp","Shanghai Automotive Ind Corp",1
+"359","China FAW Group Corp","Volkswagen Ag",5
+"360","Mando Machinery Corp","Robert Bosch GmbH",1
+"361","Honda Motor Co Ltd","Dongfeng Motor Co Ltd",1
+"362","Honda Motor Co Ltd","Dongfeng Motor Corp",2
+"363","Honda Motor Co Ltd","Guangzhou Auto Grp Co Ltd",2
+"364","Honda Motor Co Ltd","Hero Motors Ltd",1
+"365","Honda Motor Co Ltd","Hino Motors Ltd",1
+"366","Honda Motor Co Ltd","Ishikawajima-Harima Heavy",1
+"367","Honda Motor Co Ltd","Itochu Corp",2
+"368","Honda Motor Co Ltd","Mitsubishi Motors Corp",2
+"369","Honda Motor Co Ltd","Nissan Motor Co Ltd",1
+"370","Honda Motor Co Ltd","Panasonic Corp",1
+"371","Honda Motor Co Ltd","SoftBank Group Corp",1
+"372","United Technologies Corp","General Electric Co",1
+"373","United Technologies Corp","Toshiba Corp",1
+"374","Lioho Machine Works Ltd","Toyoda Automatic Loom Works",1
+"375","Lioho Machine Works Ltd","Toyota Tsusho Corp",1
+"376","Ballard Power Systems Inc","Daimler-Benz Ag",1
+"377","Daimler-Benz Ag","Ballard Power Systems Inc",1
+"378","Daimler-Benz Ag","Mitsubishi Motors Corp",1
+"379","Daimler-Benz Ag","Sony Corp",1
+"380","ZF Friedrichshafen AG","Robert Bosch GmbH",3
+"381","ZF Friedrichshafen AG","Shanghai Automotive Ind Corp",1
+"382","ZF Friedrichshafen AG","Volkswagen Ag",1
+"383","Microsoft Corp","Cisco Systems Inc",1
+"384","Microsoft Corp","Denso Corp",1
+"385","Microsoft Corp","Itochu Corp",1
+"386","Microsoft Corp","Mitsui & Co Ltd",1
+"387","Microsoft Corp","Nomura Research Inst Ltd.",1
+"388","Microsoft Corp","Qualcomm Inc",1
+"389","Microsoft Corp","Siemens AG",1
+"390","Oracle Corp","Cisco Systems Inc",1
+"391","Oracle Corp","Commerce One Inc",1
+"392","Oracle Corp","Daimlerchrysler Ag",1
+"393","Oracle Corp","General Motors Corp",1
+"394","Oracle Corp","Nissan Motor Co Ltd",1
+"395","Oracle Corp","Regie Natle Des Usines",1
+"396","Cisco Systems Inc","Fujitsu Ltd",2
+"397","Cisco Systems Inc","Hitachi Ltd",1
+"398","Cisco Systems Inc","Microsoft Corp",1
+"399","Cisco Systems Inc","Oracle Corp",1
+"400","Cisco Systems Inc","Toshiba Corp",2
+"401","Daimlerchrysler Ag","China FAW Group Corp",1
+"402","Daimlerchrysler Ag","Commerce One Inc",1
+"403","Daimlerchrysler Ag","General Motors Corp",1
+"404","Daimlerchrysler Ag","Ishikawajima-Harima Heavy",1
+"405","Daimlerchrysler Ag","Mitsubishi Motors Corp",3
+"406","Daimlerchrysler Ag","Nissan Motor Co Ltd",1
+"407","Daimlerchrysler Ag","Oracle Corp",1
+"408","Daimlerchrysler Ag","Regie Natle Des Usines",1
+"409","Daimlerchrysler Ag","Shareholders",1
+"410","Regie Natle Des Usines","Chrysler Corp",2
+"411","Regie Natle Des Usines","Commerce One Inc",1
+"412","Regie Natle Des Usines","Daimlerchrysler Ag",1
+"413","Regie Natle Des Usines","General Motors Corp",1
+"414","Regie Natle Des Usines","Mahindra & Mahindra Ltd",2
+"415","Regie Natle Des Usines","Mitsui & Co Ltd",1
+"416","Regie Natle Des Usines","Nissan Motor Co Ltd",4
+"417","Regie Natle Des Usines","Oracle Corp",1
+"418","Regie Natle Des Usines","PSA Peugeot Citroen SA",2
+"419","Regie Natle Des Usines","SOFASA",1
+"420","Commerce One Inc","Daimlerchrysler Ag",1
+"421","Commerce One Inc","General Motors Corp",2
+"422","Commerce One Inc","Nissan Motor Co Ltd",1
+"423","Commerce One Inc","Oracle Corp",1
+"424","Commerce One Inc","Regie Natle Des Usines",1
+"425","Commerce One Inc","Undisclosed Taiwanese Cos(2)",1
+"426","Qualcomm Inc","Alpine Electronics Inc",2
+"427","Qualcomm Inc","Itochu Corp",1
+"428","Qualcomm Inc","Microsoft Corp",1
+"429","Qualcomm Inc","Nippon Steel Corp",1
+"430","Qualcomm Inc","Sony Corp",1
+"431","Chongqing Changan Auto Co Ltd","Mazda Motor Corp",1
+"432","Navistar International Corp","Siemens Automotive LP",1
+"433","Sollers","Mazda Motor Corp",1
+"434","Sollers","Mitsui & Co Ltd",1
+"435","Audi AG","China FAW Group Corp",1
+"436","Audi AG","Daimler AG",2
+"437","Audi AG","Faw Grp Co Ltd",2
+"438","Audi AG","Porsche Automobil Holding SE",1
+"439","Audi AG","Porsche Pakistan",1
+"440","Audi AG","Volkswagen Ag",1
+"441","Audi AG","Volkswagen AG",1
+"442","Audi AG","Volkswagen Group Services SCS",1
+"443","Daimler AG","Audi AG",2
+"444","Daimler AG","Nissan Motor Co Ltd",1
+"445","Daimler AG","Porsche Automobil Holding SE",1
+"446","Daimler AG","Porsche Pakistan",1
+"447","Daimler AG","Robert Bosch GmbH",1
+"448","Daimler AG","Volkswagen AG",1
+"449","Daimler AG","Volkswagen Group Services SCS",1
+"450","Porsche Pakistan","Audi AG",1
+"451","Porsche Pakistan","Daimler AG",1
+"452","Porsche Pakistan","Volkswagen Group Services SCS",1
+"453","Volkswagen Group Services SCS","Audi AG",1
+"454","Volkswagen Group Services SCS","Daimler AG",1
+"455","Volkswagen Group Services SCS","Porsche Pakistan",1
+"456","Volkswagen AG","Audi AG",1
+"457","Volkswagen AG","Daimler AG",1
+"458","Volkswagen AG","Porsche Automobil Holding SE",1
+"459","Volkswagen AG","Shanghai Automotive Ind Corp",2
+"460","Porsche Automobil Holding SE","Audi AG",1
+"461","Porsche Automobil Holding SE","Daimler AG",1
+"462","Porsche Automobil Holding SE","Volkswagen AG",1
+"463","Rolls-Royce Plc","Fokker NV",1
+"464","Rolls-Royce Plc","General Electric Co",1
+"465","Rolls-Royce Plc","Ishikawajima-Harima Heavy",1
+"466","Rolls-Royce Plc","McDonnell Douglas Corp",1
+"467","Fokker NV","Deugro Luftfracht",1
+"468","Fokker NV","Rolls-Royce Plc",1
+"469","Siemens AG","CGE",1
+"470","Siemens AG","Daewoo International Corp",1
+"471","Siemens AG","Deugro Luftfracht",1
+"472","Siemens AG","Fujitsu Ltd",1
+"473","Siemens AG","General Motors Corp",1
+"474","Siemens AG","Matsushita Electric Industrial",2
+"475","Siemens AG","Microsoft Corp",1
+"476","Siemens AG","Robert Bosch GmbH",3
+"477","Siemens AG","Toshiba Corp",1
+"478","Siemens AG","Volkswagen Ag",1
+"479","Robert Bosch GmbH","CGE",1
+"480","Robert Bosch GmbH","Daimler AG",1
+"481","Robert Bosch GmbH","Denso Corp",1
+"482","Robert Bosch GmbH","Deugro Luftfracht",1
+"483","Robert Bosch GmbH","Kia Motors Corp(Kia Group)",1
+"484","Robert Bosch GmbH","Mando Machinery Corp",1
+"485","Robert Bosch GmbH","Siemens AG",3
+"486","Robert Bosch GmbH","Volkswagen Ag",1
+"487","Robert Bosch GmbH","ZF Friedrichshafen AG",3
+"488","Deugro Luftfracht","CGE",1
+"489","Deugro Luftfracht","Fokker NV",1
+"490","Deugro Luftfracht","Robert Bosch GmbH",1
+"491","Deugro Luftfracht","Siemens AG",1
+"492","Deugro Luftfracht","Volkswagen Ag",1
+"493","CGE","Deugro Luftfracht",1
+"494","CGE","Robert Bosch GmbH",1
+"495","CGE","Siemens AG",1
+"496","CGE","Volkswagen Ag",1
+"497","McDonnell Douglas Corp","Rolls-Royce Plc",1
+"498","Hero Motors Ltd","Honda Motor Co Ltd",1
+"499","Brilliance China Automotive","General Motors Corp",1
+"500","PSA Peugeot Citroen SA","Dongfeng Motor Corp",1
+"501","PSA Peugeot Citroen SA","Mitsubishi Motors Corp",1
+"502","PSA Peugeot Citroen SA","Regie Natle Des Usines",2
+"503","Toyoda Automatic Loom Works","Kirloskar Systems Ltd",1
+"504","Toyoda Automatic Loom Works","Lioho Machine Works Ltd",1
+"505","Toyoda Automatic Loom Works","Matsushita Electric Industrial",1
+"506","Toyoda Automatic Loom Works","Sony Corp",1
+"507","Toyoda Automatic Loom Works","Toyota Tsusho Corp",1
+"508","SOFASA","Mitsui & Co Ltd",1
+"509","SOFASA","Regie Natle Des Usines",1
+"510","Mitsui & Co Ltd","America Online Inc",1
+"511","Mitsui & Co Ltd","Dai-Ichi Kangyo Bank Ltd",1
+"512","Mitsui & Co Ltd","Denso Corp",1
+"513","Mitsui & Co Ltd","Fujitsu Ltd",1
+"514","Mitsui & Co Ltd","General Electric Co",2
+"515","Mitsui & Co Ltd","Haci Omer Sabanci Holding AS",2
+"516","Mitsui & Co Ltd","Hino Motors Ltd",3
+"517","Mitsui & Co Ltd","Hitachi Ltd",2
+"518","Mitsui & Co Ltd","IBM Japan Ltd",1
+"519","Mitsui & Co Ltd","Investor Group",6
+"520","Mitsui & Co Ltd","Itochu Corp",11
+"521","Mitsui & Co Ltd","Japan Telecom Co Ltd",2
+"522","Mitsui & Co Ltd","Japan Times",1
+"523","Mitsui & Co Ltd","KDD Corp",2
+"524","Mitsui & Co Ltd","Microsoft Corp",1
+"525","Mitsui & Co Ltd","Mitsui Engineering & Shipbldg",4
+"526","Mitsui & Co Ltd","Nichimen Corp",2
+"527","Mitsui & Co Ltd","Nihon Unisys Ltd",1
+"528","Mitsui & Co Ltd","Nippon Steel Corp",10
+"529","Mitsui & Co Ltd","Nissan Motor Co Ltd",1
+"530","Mitsui & Co Ltd","Nomura Research Inst Ltd.",1
+"531","Mitsui & Co Ltd","Regie Natle Des Usines",1
+"532","Mitsui & Co Ltd","SOFASA",1
+"533","Mitsui & Co Ltd","Sollers",1
+"534","Mitsui & Co Ltd","Sony Corp",1
+"535","Mitsui & Co Ltd","Sumitomo Corp",12
+"536","Mitsui & Co Ltd","Toppan Printing Co Ltd",1
+"537","Mitsui & Co Ltd","Toshiba Corp",7
+"538","Mitsui & Co Ltd","Toyota Tsusho Corp",1
+"539","Mitsui & Co Ltd","Undisclosed Japanese Partner",5
+"540","Mitsui & Co Ltd","Undisclosed Taiwanese Cos(2)",1
+"541","Fujitsu Ltd","Alpine Electronics Inc",1
+"542","Fujitsu Ltd","Circle K Japan Co Ltd",1
+"543","Fujitsu Ltd","Cisco Systems Inc",2
+"544","Fujitsu Ltd","Denso Corp",1
+"545","Fujitsu Ltd","Dentsu Inc",1
+"546","Fujitsu Ltd","Hitachi Ltd",7
+"547","Fujitsu Ltd","IBM Japan Ltd",1
+"548","Fujitsu Ltd","Investor Group",1
+"549","Fujitsu Ltd","Kenwood Corp",1
+"550","Fujitsu Ltd","Matsushita Electric Industrial",3
+"551","Fujitsu Ltd","Mitsui & Co Ltd",1
+"552","Fujitsu Ltd","Nichimen Corp",1
+"553","Fujitsu Ltd","Nippon Television Network Corp",1
+"554","Fujitsu Ltd","NTT Communications Corp",1
+"555","Fujitsu Ltd","Panasonic Corp",1
+"556","Fujitsu Ltd","Sanwa Bank Ltd",1
+"557","Fujitsu Ltd","Siemens AG",1
+"558","Fujitsu Ltd","Sony Corp",6
+"559","Fujitsu Ltd","Sumitomo Electric Industries",2
+"560","Fujitsu Ltd","Sunkus & Associates Inc",1
+"561","Fujitsu Ltd","Tokai Bank Ltd",1
+"562","Fujitsu Ltd","Tokyo Fm Broadcasting Co Ltd",1
+"563","Fujitsu Ltd","Toppan Printing Co Ltd",1
+"564","Fujitsu Ltd","Toshiba Corp",7
+"565","Fujitsu Ltd","Undisclosed Japanese Partner",2
+"566","Astra International Tbk PT","Itochu Corp",1
+"567","Astra International Tbk PT","Nichimen Corp",2
+"568","Haci Omer Sabanci Holding AS","Mitsui & Co Ltd",2
+"569","Haci Omer Sabanci Holding AS","Shareholders",1
+"570","Yokogawa Electric Corp","General Electric Co",1
+"571","Yokogawa Electric Corp","Hitachi Ltd",1
+"572","Yokogawa Electric Corp","Shanghai Automation",1
+"573","Yokogawa Electric Corp","Toyota Ctrl Research and Dvlp",1
+"574","Toyota Ctrl Research and Dvlp","Yokogawa Electric Corp",1
+"575","Nihon Unisys Ltd","Hitachi Ltd",1
+"576","Nihon Unisys Ltd","Mitsui & Co Ltd",1
+"577","Nihon Unisys Ltd","Nissan Motor Co Ltd",1
+"578","Nihon Unisys Ltd","Toshiba Corp",1
+"579","Toshiba Corp","Alpine Electronics Inc",1
+"580","Toshiba Corp","Cisco Systems Inc",2
+"581","Toshiba Corp","Dai-Ichi Kangyo Bank Ltd",1
+"582","Toshiba Corp","Denso Corp",1
+"583","Toshiba Corp","Dentsu Inc",1
+"584","Toshiba Corp","Fujitsu Ltd",7
+"585","Toshiba Corp","General Electric Co",6
+"586","Toshiba Corp","Hitachi Ltd",13
+"587","Toshiba Corp","IBM Japan Ltd",5
+"588","Toshiba Corp","Investor Group",1
+"589","Toshiba Corp","Itochu Corp",2
+"590","Toshiba Corp","Kenwood Corp",1
+"591","Toshiba Corp","Matsushita Electric Industrial",9
+"592","Toshiba Corp","Mitsui & Co Ltd",7
+"593","Toshiba Corp","Nichimen Corp",1
+"594","Toshiba Corp","Nihon Unisys Ltd",1
+"595","Toshiba Corp","Nippon Television Network Corp",1
+"596","Toshiba Corp","Siemens AG",1
+"597","Toshiba Corp","Sony Corp",4
+"598","Toshiba Corp","Sumitomo Corp",2
+"599","Toshiba Corp","Tokyo Fm Broadcasting Co Ltd",1
+"600","Toshiba Corp","Toppan Printing Co Ltd",2
+"601","Toshiba Corp","United Technologies Corp",1
+"602","IBM Japan Ltd","Fujitsu Ltd",1
+"603","IBM Japan Ltd","Hitachi Ltd",2
+"604","IBM Japan Ltd","Investor Group",1
+"605","IBM Japan Ltd","Mitsui & Co Ltd",1
+"606","IBM Japan Ltd","Nippon Steel Corp",1
+"607","IBM Japan Ltd","Nissan Motor Co Ltd",1
+"608","IBM Japan Ltd","Toshiba Corp",5
+"609","IBM Japan Ltd","Undisclosed Japanese Partner",2
+"610","Toyota Tsusho Corp","Aisin Seiki Co Ltd",3
+"611","Toyota Tsusho Corp","Changshu Sinogy Venture Capita",1
+"612","Toyota Tsusho Corp","Hino Motors Ltd",2
+"613","Toyota Tsusho Corp","Hitachi Ltd",1
+"614","Toyota Tsusho Corp","Kirloskar Systems Ltd",2
+"615","Toyota Tsusho Corp","Lioho Machine Works Ltd",1
+"616","Toyota Tsusho Corp","Mitsui & Co Ltd",1
+"617","Toyota Tsusho Corp","Nichimen Corp",2
+"618","Toyota Tsusho Corp","Primearth EV Energy Co Ltd",2
+"619","Toyota Tsusho Corp","Sichuan Station Wagon Mnfr",1
+"620","Toyota Tsusho Corp","Tianjin Automobile Industrial",2
+"621","Toyota Tsusho Corp","Toyoda Automatic Loom Works",1
+"622","Toyota Tsusho Corp","Toyoda Gosei Co Ltd",3
+"623","Toyota Tsusho Corp","Toyota(China)Investment Co Ltd",2
+"624","Toyota Tsusho Corp","Undisclosed Japanese Partner",1
+"625","Hirohisa Saito","3iBJ",1
+"626","Hirohisa Saito","Mitsubishi Oil Co Ltd",1
+"627","Hirohisa Saito","Sanritz Automation Co Ltd",1
+"628","Mitsubishi Oil Co Ltd","3iBJ",1
+"629","Mitsubishi Oil Co Ltd","Hirohisa Saito",1
+"630","Mitsubishi Oil Co Ltd","Sanritz Automation Co Ltd",1
+"631","3iBJ","Hirohisa Saito",1
+"632","3iBJ","Mitsubishi Oil Co Ltd",1
+"633","3iBJ","Sanritz Automation Co Ltd",1
+"634","Sanritz Automation Co Ltd","3iBJ",1
+"635","Sanritz Automation Co Ltd","Hirohisa Saito",1
+"636","Sanritz Automation Co Ltd","Mitsubishi Oil Co Ltd",1
+"637","Hino Motors Ltd","GAC",1
+"638","Hino Motors Ltd","Honda Motor Co Ltd",1
+"639","Hino Motors Ltd","Mitsui & Co Ltd",3
+"640","Hino Motors Ltd","SoftBank Group Corp",1
+"641","Hino Motors Ltd","Sumitomo Corp",3
+"642","Hino Motors Ltd","Toyota Tsusho Corp",2
+"643","Hino Motors Ltd","Undisclosed Taiwanese Cos(2)",1
+"644","Undisclosed Taiwanese Cos(2)","Commerce One Inc",1
+"645","Undisclosed Taiwanese Cos(2)","Hino Motors Ltd",1
+"646","Undisclosed Taiwanese Cos(2)","Mitsui & Co Ltd",1
+"647","Undisclosed Finnish Partner","Sumitomo Corp",1
+"648","Undisclosed Pakistani Co(s)","Investor Group",1
+"649","Undisclosed Pakistani Co(s)","Itochu Corp",1
+"650","Undisclosed Pakistani Co(s)","Shareholders",1
+"651","Mitsui Engineering & Shipbldg","Mitsui & Co Ltd",4
+"652","Toyoda Gosei Co Ltd","Kirloskar Systems Ltd",1
+"653","Toyoda Gosei Co Ltd","Pongpara Codan Rubber Co",2
+"654","Toyoda Gosei Co Ltd","Toyota Tsusho Corp",3
+"655","Toyoda Gosei Co Ltd","Toyota Tsusho(Thailand)Co Ltd",1
+"656","Pongpara Codan Rubber Co","Toyoda Gosei Co Ltd",2
+"657","Pongpara Codan Rubber Co","Toyota Tsusho(Thailand)Co Ltd",1
+"658","Toyota Tsusho(Thailand)Co Ltd","Aisin Seiki Co Ltd",1
+"659","Toyota Tsusho(Thailand)Co Ltd","Pongpara Codan Rubber Co",1
+"660","Toyota Tsusho(Thailand)Co Ltd","Toyoda Gosei Co Ltd",1
+"661","Japan Telecom Co Ltd","Hitachi Ltd",2
+"662","Japan Telecom Co Ltd","Investor Group",1
+"663","Japan Telecom Co Ltd","Itochu Corp",1
+"664","Japan Telecom Co Ltd","KDD Corp",2
+"665","Japan Telecom Co Ltd","Kyushu Railway Co",1
+"666","Japan Telecom Co Ltd","Matsushita Electric Industrial",2
+"667","Japan Telecom Co Ltd","Mitsui & Co Ltd",2
+"668","Japan Telecom Co Ltd","Nippon Steel Corp",1
+"669","Japan Telecom Co Ltd","Nissan Motor Co Ltd",5
+"670","Japan Telecom Co Ltd","PacTel Corp",1
+"671","Japan Telecom Co Ltd","Sumitomo Corp",2
+"672","Japan Telecom Co Ltd","Tokai Bank Ltd",1
+"673","Japan Telecom Co Ltd","Undisclosed Japanese Partner",2
+"674","Hitachi Ltd","Cisco Systems Inc",1
+"675","Hitachi Ltd","Dai-Ichi Kangyo Bank Ltd",2
+"676","Hitachi Ltd","Fujitsu Ltd",7
+"677","Hitachi Ltd","General Electric Co",6
+"678","Hitachi Ltd","IBM Japan Ltd",2
+"679","Hitachi Ltd","Investor Group",2
+"680","Hitachi Ltd","Itochu Corp",2
+"681","Hitachi Ltd","Japan Telecom Co Ltd",2
+"682","Hitachi Ltd","KDD Corp",1
+"683","Hitachi Ltd","Kyushu Railway Co",1
+"684","Hitachi Ltd","Matsushita Electric Industrial",2
+"685","Hitachi Ltd","Mitsui & Co Ltd",2
+"686","Hitachi Ltd","Nihon Unisys Ltd",1
+"687","Hitachi Ltd","Nippon Steel Corp",2
+"688","Hitachi Ltd","Nissan Motor Co Ltd",3
+"689","Hitachi Ltd","PacTel Corp",1
+"690","Hitachi Ltd","Sony Corp",3
+"691","Hitachi Ltd","Sumitomo Corp",2
+"692","Hitachi Ltd","Toppan Printing Co Ltd",2
+"693","Hitachi Ltd","Toshiba Corp",13
+"694","Hitachi Ltd","Toyota Tsusho Corp",1
+"695","Hitachi Ltd","Undisclosed Japanese Partner",2
+"696","Hitachi Ltd","Yokogawa Electric Corp",1
+"697","Kyushu Railway Co","Hitachi Ltd",1
+"698","Kyushu Railway Co","Investor Group",1
+"699","Kyushu Railway Co","Japan Telecom Co Ltd",1
+"700","Kyushu Railway Co","KDD Corp",1
+"701","Kyushu Railway Co","Nippon Steel Corp",1
+"702","Kyushu Railway Co","Nissan Motor Co Ltd",1
+"703","Kyushu Railway Co","PacTel Corp",1
+"704","Nippon Steel Corp","Hitachi Ltd",2
+"705","Nippon Steel Corp","IBM Japan Ltd",1
+"706","Nippon Steel Corp","Investor Group",2
+"707","Nippon Steel Corp","Itochu Corp",1
+"708","Nippon Steel Corp","Japan Telecom Co Ltd",1
+"709","Nippon Steel Corp","KDD Corp",1
+"710","Nippon Steel Corp","Kyushu Railway Co",1
+"711","Nippon Steel Corp","Mitsui & Co Ltd",10
+"712","Nippon Steel Corp","Nissan Motor Co Ltd",1
+"713","Nippon Steel Corp","PacTel Corp",1
+"714","Nippon Steel Corp","Qualcomm Inc",1
+"715","Nippon Steel Corp","Sumitomo Corp",1
+"716","KDD Corp","Hitachi Ltd",1
+"717","KDD Corp","Investor Group",1
+"718","KDD Corp","Japan Telecom Co Ltd",2
+"719","KDD Corp","Kyushu Railway Co",1
+"720","KDD Corp","Mitsui & Co Ltd",2
+"721","KDD Corp","Nippon Steel Corp",1
+"722","KDD Corp","Nissan Motor Co Ltd",1
+"723","KDD Corp","Nomura Research Inst Ltd.",1
+"724","KDD Corp","PacTel Corp",1
+"725","KDD Corp","Sumitomo Corp",4
+"726","KDD Corp","Undisclosed Japanese Partner",3
+"727","PacTel Corp","Hitachi Ltd",1
+"728","PacTel Corp","Investor Group",1
+"729","PacTel Corp","Japan Telecom Co Ltd",1
+"730","PacTel Corp","KDD Corp",1
+"731","PacTel Corp","Kyushu Railway Co",1
+"732","PacTel Corp","Nippon Steel Corp",1
+"733","PacTel Corp","Nissan Motor Co Ltd",1
+"734","Daewoo Motor Co Ltd","DCM Ltd",1
+"735","Daewoo Motor Co Ltd","Shareholders",1
+"736","Daewoo Motor Co Ltd","Siemens Automotive LP",1
+"737","DCM Ltd","Daewoo Motor Co Ltd",1
+"738","DCM Ltd","Shareholders",1
+"739","Shareholders","Daewoo Motor Co Ltd",1
+"740","Shareholders","Daimlerchrysler Ag",1
+"741","Shareholders","DCM Ltd",1
+"742","Shareholders","Haci Omer Sabanci Holding AS",1
+"743","Shareholders","Investor Group",1
+"744","Shareholders","Itochu Corp",1
+"745","Shareholders","Undisclosed Pakistani Co(s)",1
+"746","Daewoo International Corp","Anglo American Industrial Corp",2
+"747","Daewoo International Corp","China FAW Group Corp",1
+"748","Daewoo International Corp","DCM Daewoo Motors Ltd",1
+"749","Daewoo International Corp","General Motors Corp",4
+"750","Daewoo International Corp","Siemens AG",1
+"751","DCM Daewoo Motors Ltd","Daewoo International Corp",1
+"752","Nippon Electric Glass Co Ltd","IFCT",1
+"753","Nippon Electric Glass Co Ltd","SCC",1
+"754","SCC","IFCT",1
+"755","SCC","Nippon Electric Glass Co Ltd",1
+"756","IFCT","Investor Group",1
+"757","IFCT","Nippon Electric Glass Co Ltd",1
+"758","IFCT","SCC",1
+"759","Itochu Corp","Astra International Tbk PT",1
+"760","Itochu Corp","China FAW Group Corp",1
+"761","Itochu Corp","Dai-Ichi Kangyo Bank Ltd",3
+"762","Itochu Corp","Dentsu Inc",1
+"763","Itochu Corp","Hitachi Ltd",2
+"764","Itochu Corp","Honda Motor Co Ltd",2
+"765","Itochu Corp","Investor Group",3
+"766","Itochu Corp","Japan Telecom Co Ltd",1
+"767","Itochu Corp","Japan Times",1
+"768","Itochu Corp","Mazda Motor Corp",1
+"769","Itochu Corp","Microsoft Corp",1
+"770","Itochu Corp","Mitsui & Co Ltd",11
+"771","Itochu Corp","Nichimen Corp",1
+"772","Itochu Corp","Nippon Steel Corp",1
+"773","Itochu Corp","Nomura Research Inst Ltd.",1
+"774","Itochu Corp","Qualcomm Inc",1
+"775","Itochu Corp","Shareholders",1
+"776","Itochu Corp","Sumitomo Corp",9
+"777","Itochu Corp","Toshiba Corp",2
+"778","Itochu Corp","Undisclosed Japanese Partner",5
+"779","Itochu Corp","Undisclosed Pakistani Co(s)",1
+"780","Itochu Corp","Yomiuri Shimbun Holdings",1
+"781","Dentsu Inc","Dai-Ichi Kangyo Bank Ltd",1
+"782","Dentsu Inc","Fujitsu Ltd",1
+"783","Dentsu Inc","Itochu Corp",1
+"784","Dentsu Inc","Japan Times",1
+"785","Dentsu Inc","Matsushita Electric Industrial",1
+"786","Dentsu Inc","Nomura Research Inst Ltd.",1
+"787","Dentsu Inc","Sumitomo Corp",1
+"788","Dentsu Inc","Toshiba Corp",1
+"789","Dentsu Inc","Undisclosed Japanese Partner",1
+"790","Dentsu Inc","Yomiuri Shimbun Holdings",1
+"791","Dai-Ichi Kangyo Bank Ltd","Dentsu Inc",1
+"792","Dai-Ichi Kangyo Bank Ltd","Hitachi Ltd",2
+"793","Dai-Ichi Kangyo Bank Ltd","Itochu Corp",3
+"794","Dai-Ichi Kangyo Bank Ltd","Japan Times",1
+"795","Dai-Ichi Kangyo Bank Ltd","Mitsui & Co Ltd",1
+"796","Dai-Ichi Kangyo Bank Ltd","Nomura Research Inst Ltd.",1
+"797","Dai-Ichi Kangyo Bank Ltd","Sanwa Bank Ltd",3
+"798","Dai-Ichi Kangyo Bank Ltd","Sumitomo Corp",1
+"799","Dai-Ichi Kangyo Bank Ltd","Toshiba Corp",1
+"800","Dai-Ichi Kangyo Bank Ltd","Undisclosed Japanese Partner",1
+"801","Dai-Ichi Kangyo Bank Ltd","Yomiuri Shimbun Holdings",1
+"802","Nomura Research Inst Ltd.","Dai-Ichi Kangyo Bank Ltd",1
+"803","Nomura Research Inst Ltd.","Dentsu Inc",1
+"804","Nomura Research Inst Ltd.","Itochu Corp",1
+"805","Nomura Research Inst Ltd.","Japan Times",1
+"806","Nomura Research Inst Ltd.","KDD Corp",1
+"807","Nomura Research Inst Ltd.","Microsoft Corp",1
+"808","Nomura Research Inst Ltd.","Mitsui & Co Ltd",1
+"809","Nomura Research Inst Ltd.","Sony Corp",1
+"810","Nomura Research Inst Ltd.","Yomiuri Shimbun Holdings",1
+"811","Japan Times","Dai-Ichi Kangyo Bank Ltd",1
+"812","Japan Times","Dentsu Inc",1
+"813","Japan Times","Itochu Corp",1
+"814","Japan Times","Mitsui & Co Ltd",1
+"815","Japan Times","Nomura Research Inst Ltd.",1
+"816","Japan Times","Yomiuri Shimbun Holdings",1
+"817","Yomiuri Shimbun Holdings","Dai-Ichi Kangyo Bank Ltd",1
+"818","Yomiuri Shimbun Holdings","Dentsu Inc",1
+"819","Yomiuri Shimbun Holdings","Itochu Corp",1
+"820","Yomiuri Shimbun Holdings","Japan Times",1
+"821","Yomiuri Shimbun Holdings","Nippon Television Network Corp",1
+"822","Yomiuri Shimbun Holdings","Nomura Research Inst Ltd.",1
+"823","Yomiuri Shimbun Holdings","Sony Corp",1
+"824","Yomiuri Shimbun Holdings","Toppan Printing Co Ltd",1
+"825","Tianjin Automobile Industrial","Aisin Seiki Co Ltd",1
+"826","Tianjin Automobile Industrial","Toyota Tsusho Corp",2
+"827","Kirloskar Systems Ltd","Toyoda Automatic Loom Works",1
+"828","Kirloskar Systems Ltd","Toyoda Gosei Co Ltd",1
+"829","Kirloskar Systems Ltd","Toyota Tsusho Corp",2
+"830","Nippon Television Network Corp","Alpine Electronics Inc",1
+"831","Nippon Television Network Corp","Denso Corp",1
+"832","Nippon Television Network Corp","Fujitsu Ltd",1
+"833","Nippon Television Network Corp","Kenwood Corp",1
+"834","Nippon Television Network Corp","NTT Communications Corp",1
+"835","Nippon Television Network Corp","Tokyo Fm Broadcasting Co Ltd",1
+"836","Nippon Television Network Corp","Toppan Printing Co Ltd",1
+"837","Nippon Television Network Corp","Toshiba Corp",1
+"838","Nippon Television Network Corp","Yomiuri Shimbun Holdings",1
+"839","Tokyo Fm Broadcasting Co Ltd","Alpine Electronics Inc",1
+"840","Tokyo Fm Broadcasting Co Ltd","Denso Corp",1
+"841","Tokyo Fm Broadcasting Co Ltd","Fujitsu Ltd",1
+"842","Tokyo Fm Broadcasting Co Ltd","Kenwood Corp",1
+"843","Tokyo Fm Broadcasting Co Ltd","Nippon Television Network Corp",1
+"844","Tokyo Fm Broadcasting Co Ltd","Toppan Printing Co Ltd",1
+"845","Tokyo Fm Broadcasting Co Ltd","Toshiba Corp",1
+"846","Kenwood Corp","Alpine Electronics Inc",1
+"847","Kenwood Corp","Denso Corp",1
+"848","Kenwood Corp","Fujitsu Ltd",1
+"849","Kenwood Corp","Nippon Television Network Corp",1
+"850","Kenwood Corp","Sony Corp",2
+"851","Kenwood Corp","Tokyo Fm Broadcasting Co Ltd",1
+"852","Kenwood Corp","Toppan Printing Co Ltd",2
+"853","Kenwood Corp","Toshiba Corp",1
+"854","Denso Corp","Aisin Seiki Co Ltd",1
+"855","Denso Corp","Alpine Electronics Inc",1
+"856","Denso Corp","Fujitsu Ltd",1
+"857","Denso Corp","Kenwood Corp",1
+"858","Denso Corp","Kirloskar Oil Engines Ltd",1
+"859","Denso Corp","Microsoft Corp",1
+"860","Denso Corp","Mitsui & Co Ltd",1
+"861","Denso Corp","Nippon Television Network Corp",1
+"862","Denso Corp","Robert Bosch GmbH",1
+"863","Denso Corp","Sanwa Bank Ltd",1
+"864","Denso Corp","Sony Corp",1
+"865","Denso Corp","Sumitomo Corp",1
+"866","Denso Corp","Sumitomo Electric Industries",1
+"867","Denso Corp","Tokyo Fm Broadcasting Co Ltd",1
+"868","Denso Corp","Toppan Printing Co Ltd",1
+"869","Denso Corp","Toshiba Corp",1
+"870","Alpine Electronics Inc","Denso Corp",1
+"871","Alpine Electronics Inc","Fujitsu Ltd",1
+"872","Alpine Electronics Inc","Kenwood Corp",1
+"873","Alpine Electronics Inc","Nippon Television Network Corp",1
+"874","Alpine Electronics Inc","Qualcomm Inc",2
+"875","Alpine Electronics Inc","Tokyo Fm Broadcasting Co Ltd",1
+"876","Alpine Electronics Inc","Toppan Printing Co Ltd",1
+"877","Alpine Electronics Inc","Toshiba Corp",1
+"878","Toppan Printing Co Ltd","Alpine Electronics Inc",1
+"879","Toppan Printing Co Ltd","Denso Corp",1
+"880","Toppan Printing Co Ltd","Fujitsu Ltd",1
+"881","Toppan Printing Co Ltd","Hitachi Ltd",2
+"882","Toppan Printing Co Ltd","Kenwood Corp",2
+"883","Toppan Printing Co Ltd","Mitsui & Co Ltd",1
+"884","Toppan Printing Co Ltd","Nippon Television Network Corp",1
+"885","Toppan Printing Co Ltd","Sony Corp",1
+"886","Toppan Printing Co Ltd","Tokyo Fm Broadcasting Co Ltd",1
+"887","Toppan Printing Co Ltd","Toshiba Corp",2
+"888","Toppan Printing Co Ltd","Yomiuri Shimbun Holdings",1
+"889","Sichuan Station Wagon Mnfr","Toyota Tsusho Corp",1
+"890","Sony Corp","America Online Inc",1
+"891","Sony Corp","Daimler-Benz Ag",1
+"892","Sony Corp","Denso Corp",1
+"893","Sony Corp","Fujitsu Ltd",6
+"894","Sony Corp","Hitachi Ltd",3
+"895","Sony Corp","Kenwood Corp",2
+"896","Sony Corp","Matsushita Electric Industrial",4
+"897","Sony Corp","Mitsui & Co Ltd",1
+"898","Sony Corp","Nissan Motor Co Ltd",1
+"899","Sony Corp","Nomura Research Inst Ltd.",1
+"900","Sony Corp","NTT Communications Corp",1
+"901","Sony Corp","Qualcomm Inc",1
+"902","Sony Corp","Sanwa Bank Ltd",1
+"903","Sony Corp","Sumitomo Corp",2
+"904","Sony Corp","Tokyu Corp",1
+"905","Sony Corp","Toppan Printing Co Ltd",1
+"906","Sony Corp","Toshiba Corp",4
+"907","Sony Corp","Toyoda Automatic Loom Works",1
+"908","Sony Corp","Undisclosed Japanese Partner",1
+"909","Sony Corp","Yomiuri Shimbun Holdings",1
+"910","Tokyu Corp","Sony Corp",1
+"911","Tokyu Corp","Undisclosed Japanese Partner",1
+"912","Circle K Japan Co Ltd","Fujitsu Ltd",1
+"913","Circle K Japan Co Ltd","Nichimen Corp",1
+"914","Circle K Japan Co Ltd","NTT Communications Corp",1
+"915","Circle K Japan Co Ltd","Sanwa Bank Ltd",1
+"916","Circle K Japan Co Ltd","Sunkus & Associates Inc",3
+"917","Circle K Japan Co Ltd","Tokai Bank Ltd",1
+"918","Circle K Japan Co Ltd","Undisclosed Japanese Partner",1
+"919","Sunkus & Associates Inc","Circle K Japan Co Ltd",3
+"920","Sunkus & Associates Inc","Fujitsu Ltd",1
+"921","Sunkus & Associates Inc","Nichimen Corp",1
+"922","Sunkus & Associates Inc","NTT Communications Corp",1
+"923","Sunkus & Associates Inc","Sanwa Bank Ltd",1
+"924","Sunkus & Associates Inc","Tokai Bank Ltd",1
+"925","Sunkus & Associates Inc","Undisclosed Japanese Partner",1
+"926","Nichimen Corp","Astra International Tbk PT",2
+"927","Nichimen Corp","Circle K Japan Co Ltd",1
+"928","Nichimen Corp","Fujitsu Ltd",1
+"929","Nichimen Corp","Itochu Corp",1
+"930","Nichimen Corp","Mitsui & Co Ltd",2
+"931","Nichimen Corp","NTT Communications Corp",1
+"932","Nichimen Corp","Sanwa Bank Ltd",1
+"933","Nichimen Corp","Sunkus & Associates Inc",1
+"934","Nichimen Corp","Tokai Bank Ltd",1
+"935","Nichimen Corp","Toshiba Corp",1
+"936","Nichimen Corp","Toyota Tsusho Corp",2
+"937","Nichimen Corp","Undisclosed Japanese Partner",2
+"938","Sanwa Bank Ltd","Circle K Japan Co Ltd",1
+"939","Sanwa Bank Ltd","Dai-Ichi Kangyo Bank Ltd",2
+"940","Sanwa Bank Ltd","Denso Corp",1
+"941","Sanwa Bank Ltd","Fujitsu Ltd",1
+"942","Sanwa Bank Ltd","Nichimen Corp",1
+"943","Sanwa Bank Ltd","NTT Communications Corp",1
+"944","Sanwa Bank Ltd","Sony Corp",1
+"945","Sanwa Bank Ltd","Sunkus & Associates Inc",1
+"946","Sanwa Bank Ltd","Tokai Bank Ltd",2
+"947","Sanwa Bank Ltd","Undisclosed Japanese Partner",1
+"948","Tokai Bank Ltd","Circle K Japan Co Ltd",1
+"949","Tokai Bank Ltd","Fujitsu Ltd",1
+"950","Tokai Bank Ltd","Japan Telecom Co Ltd",1
+"951","Tokai Bank Ltd","Metro Bk & Tr Co",1
+"952","Tokai Bank Ltd","Nichimen Corp",1
+"953","Tokai Bank Ltd","NTT Communications Corp",1
+"954","Tokai Bank Ltd","Sanwa Bank Ltd",2
+"955","Tokai Bank Ltd","Sunkus & Associates Inc",1
+"956","Tokai Bank Ltd","Undisclosed Japanese Partner",2
+"957","NTT Communications Corp","Circle K Japan Co Ltd",1
+"958","NTT Communications Corp","Fujitsu Ltd",1
+"959","NTT Communications Corp","Matsushita Electric Industrial",1
+"960","NTT Communications Corp","Nichimen Corp",1
+"961","NTT Communications Corp","Nippon Television Network Corp",1
+"962","NTT Communications Corp","Sanwa Bank Ltd",1
+"963","NTT Communications Corp","Sony Corp",1
+"964","NTT Communications Corp","Sumitomo Corp",1
+"965","NTT Communications Corp","Sunkus & Associates Inc",1
+"966","NTT Communications Corp","Tokai Bank Ltd",1
+"967","NTT Communications Corp","Undisclosed Japanese Partner",1
+"968","Undisclosed Japanese Partner","Circle K Japan Co Ltd",1
+"969","Undisclosed Japanese Partner","Dai-Ichi Kangyo Bank Ltd",1
+"970","Undisclosed Japanese Partner","Dentsu Inc",1
+"971","Undisclosed Japanese Partner","Fujitsu Ltd",2
+"972","Undisclosed Japanese Partner","Hitachi Ltd",2
+"973","Undisclosed Japanese Partner","IBM Japan Ltd",2
+"974","Undisclosed Japanese Partner","Itochu Corp",5
+"975","Undisclosed Japanese Partner","Japan Telecom Co Ltd",2
+"976","Undisclosed Japanese Partner","KDD Corp",3
+"977","Undisclosed Japanese Partner","Matsushita Electric Industrial",1
+"978","Undisclosed Japanese Partner","Mitsui & Co Ltd",5
+"979","Undisclosed Japanese Partner","Nichimen Corp",2
+"980","Undisclosed Japanese Partner","NTT Communications Corp",1
+"981","Undisclosed Japanese Partner","Sanwa Bank Ltd",1
+"982","Undisclosed Japanese Partner","Sony Corp",1
+"983","Undisclosed Japanese Partner","Sumitomo Corp",2
+"984","Undisclosed Japanese Partner","Sunkus & Associates Inc",1
+"985","Undisclosed Japanese Partner","Tokai Bank Ltd",2
+"986","Undisclosed Japanese Partner","Tokyu Corp",1
+"987","Undisclosed Japanese Partner","Toyota Tsusho Corp",1
+"988","America Online Inc","Mitsui & Co Ltd",1
+"989","America Online Inc","Sony Corp",1
+"990","Aisin Seiki Co Ltd","Denso Corp",1
+"991","Aisin Seiki Co Ltd","Guangzhou Auto Grp Co Ltd",1
+"992","Aisin Seiki Co Ltd","Sumitomo Electric Industries",1
+"993","Aisin Seiki Co Ltd","Tianjin Automobile Industrial",1
+"994","Aisin Seiki Co Ltd","Toyota Tsusho Corp",3
+"995","Aisin Seiki Co Ltd","Toyota Tsusho(Thailand)Co Ltd",1
+"996","Sumitomo Electric Industries","Aisin Seiki Co Ltd",1
+"997","Sumitomo Electric Industries","Denso Corp",1
+"998","Sumitomo Electric Industries","Fujitsu Ltd",2
+"999","Sumitomo Electric Industries","Matsushita Electric Industrial",1
+"1000","Sumitomo Electric Industries","Sumitomo Corp",6
+"1001","Ishikawajima-Harima Heavy","Daimlerchrysler Ag",1
+"1002","Ishikawajima-Harima Heavy","Honda Motor Co Ltd",1
+"1003","Ishikawajima-Harima Heavy","Rolls-Royce Plc",1
+"1004","Metro Bk & Tr Co","Tokai Bank Ltd",1
+"1005","Guangzhou Auto Grp Co Ltd","Aisin Seiki Co Ltd",1
+"1006","Guangzhou Auto Grp Co Ltd","Beijing Automotive Grp Co Ltd",2
+"1007","Guangzhou Auto Grp Co Ltd","Beijing SinoHytec Co Ltd",2
+"1008","Guangzhou Auto Grp Co Ltd","China Faw Corp Ltd",1
+"1009","Guangzhou Auto Grp Co Ltd","Dongfeng Motor Co Ltd",1
+"1010","Guangzhou Auto Grp Co Ltd","Dongfeng Motor Corp",2
+"1011","Guangzhou Auto Grp Co Ltd","Faw Grp Co Ltd",1
+"1012","Guangzhou Auto Grp Co Ltd","Honda Motor Co Ltd",2
+"1013","Guangzhou Auto Grp Co Ltd","Mitsubishi Motors Corp",1
+"1014","Kirloskar Oil Engines Ltd","Denso Corp",1
+"1015","GAC","China FAW Group Corp",1
+"1016","GAC","Hino Motors Ltd",1
+"1017","Changshu Sinogy Venture Capita","Primearth EV Energy Co Ltd",2
+"1018","Changshu Sinogy Venture Capita","Toyota Tsusho Corp",1
+"1019","Changshu Sinogy Venture Capita","Toyota(China)Investment Co Ltd",2
+"1020","Primearth EV Energy Co Ltd","Changshu Sinogy Venture Capita",2
+"1021","Primearth EV Energy Co Ltd","Toyota Tsusho Corp",2
+"1022","Primearth EV Energy Co Ltd","Toyota(China)Investment Co Ltd",3
+"1023","Toyota(China)Investment Co Ltd","Changshu Sinogy Venture Capita",2
+"1024","Toyota(China)Investment Co Ltd","Primearth EV Energy Co Ltd",3
+"1025","Toyota(China)Investment Co Ltd","Toyota Tsusho Corp",2
+"1026","Mitsubishi Motors Corp","Chrysler Corp",1
+"1027","Mitsubishi Motors Corp","Daimler-Benz Ag",1
+"1028","Mitsubishi Motors Corp","Daimlerchrysler Ag",3
+"1029","Mitsubishi Motors Corp","Guangzhou Auto Grp Co Ltd",1
+"1030","Mitsubishi Motors Corp","Honda Motor Co Ltd",2
+"1031","Mitsubishi Motors Corp","Investor Group",1
+"1032","Mitsubishi Motors Corp","Nissan Motor Co Ltd",2
+"1033","Mitsubishi Motors Corp","PSA Peugeot Citroen SA",1
+"1034","SoftBank Group Corp","Hino Motors Ltd",1
+"1035","SoftBank Group Corp","Honda Motor Co Ltd",1
+"1036","Panasonic Corp","Fujitsu Ltd",1
+"1037","Panasonic Corp","Honda Motor Co Ltd",1
+"1038","China Faw Corp Ltd","Beijing Automotive Grp Co Ltd",1
+"1039","China Faw Corp Ltd","Beijing SinoHytec Co Ltd",1
+"1040","China Faw Corp Ltd","Dongfeng Motor Co Ltd",1
+"1041","China Faw Corp Ltd","Guangzhou Auto Grp Co Ltd",1
+"1042","Dongfeng Motor Co Ltd","Beijing Automotive Grp Co Ltd",1
+"1043","Dongfeng Motor Co Ltd","Beijing SinoHytec Co Ltd",1
+"1044","Dongfeng Motor Co Ltd","China Faw Corp Ltd",1
+"1045","Dongfeng Motor Co Ltd","Guangzhou Auto Grp Co Ltd",1
+"1046","Dongfeng Motor Co Ltd","Honda Motor Co Ltd",1
+"1047","Dongfeng Motor Co Ltd","Nissan Motor Co Ltd",1
+"1048","Beijing Automotive Grp Co Ltd","Beijing SinoHytec Co Ltd",2
+"1049","Beijing Automotive Grp Co Ltd","China Faw Corp Ltd",1
+"1050","Beijing Automotive Grp Co Ltd","Dongfeng Motor Co Ltd",1
+"1051","Beijing Automotive Grp Co Ltd","Dongfeng Motor Corp",1
+"1052","Beijing Automotive Grp Co Ltd","Faw Grp Co Ltd",1
+"1053","Beijing Automotive Grp Co Ltd","Guangzhou Auto Grp Co Ltd",2
+"1054","Beijing SinoHytec Co Ltd","Beijing Automotive Grp Co Ltd",2
+"1055","Beijing SinoHytec Co Ltd","China Faw Corp Ltd",1
+"1056","Beijing SinoHytec Co Ltd","Dongfeng Motor Co Ltd",1
+"1057","Beijing SinoHytec Co Ltd","Dongfeng Motor Corp",1
+"1058","Beijing SinoHytec Co Ltd","Faw Grp Co Ltd",1
+"1059","Beijing SinoHytec Co Ltd","Guangzhou Auto Grp Co Ltd",2
+"1060","Faw Grp Co Ltd","Audi AG",2
+"1061","Faw Grp Co Ltd","Beijing Automotive Grp Co Ltd",1
+"1062","Faw Grp Co Ltd","Beijing SinoHytec Co Ltd",1
+"1063","Faw Grp Co Ltd","Dongfeng Motor Corp",1
+"1064","Faw Grp Co Ltd","Guangzhou Auto Grp Co Ltd",1
+"1065","Dongfeng Motor Corp","Beijing Automotive Grp Co Ltd",1
+"1066","Dongfeng Motor Corp","Beijing SinoHytec Co Ltd",1
+"1067","Dongfeng Motor Corp","Faw Grp Co Ltd",1
+"1068","Dongfeng Motor Corp","Guangzhou Auto Grp Co Ltd",2
+"1069","Dongfeng Motor Corp","Honda Motor Co Ltd",2
+"1070","Dongfeng Motor Corp","Nissan Motor Co Ltd",1
+"1071","Dongfeng Motor Corp","PSA Peugeot Citroen SA",1
+"1072","Dongfeng Motor Corp","Sumitomo Corp",1
